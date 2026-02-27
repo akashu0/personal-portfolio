@@ -25,6 +25,8 @@ BreakdownBashsrc/
 ⚡ Quick Start1. Clone & EnterBashgit clone https://github.com/akashu0/personal-portfolio.git
 cd personal-portfolio
 
+Link : https://akashkumar.store/
+
 
 
 
