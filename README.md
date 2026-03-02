@@ -11,8 +11,7 @@ A high-performance, cinematic developer portfolio engineered with the latest web
 ## 🌓 Preview
 
 | Dark Mode (Default) | Light Mode |
-|---|---|
-| *(screenshot)* | *(screenshot)* |
+
 
 ---
 
