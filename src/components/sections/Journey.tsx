@@ -6,29 +6,30 @@ import { Briefcase, GraduationCap, Calendar, MapPin } from "lucide-react";
 
 const journey = [
   {
-    year: "2024 - Present",
+    year: "2023 - Present",
     role: "Full Stack Developer",
     company: "Nexsolvix",
     description: "Leading development of scalable real-world platforms including Study Abroad Portal, CRM with multi-database architecture, Used Devices Marketplace, and Digital Real Estate systems.",
     type: "work",
-    location: "Remote"
+    location: "Hybrid"
   },
   {
-    year: "2023-2024",
+    year: "2020-2023",
     role: "Fullstack Developer",
-    company: "DGPEX24*7",
+    company: "PaxoWealth",
     description: "Contributed to full-stack development of business automation tools and workflow systems using the MERN stack.",
     type: "work",
-    location: "Remote"
+    location: "Onsite"
   },
-  {
-    year: "2022-2022",
-    role: "Full Stack Developer",
-    company: "Freelance",
-    description: "Delivered end-to-end web solutions including e-commerce platforms, CRM systems, and marketplace platforms with scalable architecture.",
-    type: "work",
-    location: "India"
-  },
+  // {
+  //   year: "2022-2022",
+  //   role: "Full Stack Developer",
+  //   company: "Freelance",
+  //   description: "Delivered end-to-end web solutions including e-commerce platforms, CRM systems, and marketplace platforms with scalable architecture.",
+  //   type: "work",
+  //   location: "India"
+  // },
+
   {
     year: "2017 - 2020",
     role: "BCA - Computer Applications",
